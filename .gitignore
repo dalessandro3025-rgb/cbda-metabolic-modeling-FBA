@@ -1,2 +1,8 @@
 .ipynb_checkpoints/
-cobra
+cobra/
+venv/
+__pycache__/
+
+Testagem_IC_IFSP_26.ipynb
+modelagem.ipynb
+untitled.py
