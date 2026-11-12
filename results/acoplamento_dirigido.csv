@@ -1,0 +1,32 @@
+combinacao,n_genes,mu,mu_rel,cbda_min,cbda_max,acoplado
+nadh_desidrogenases_externas,2,0.28786570370401554,0.9999999999999903,0.0,0.0011913150348356095,False
+fermentacao_etanol + nadh_desidrogenases_externas,7,0.28786570370401554,0.9999999999999903,0.0,0.0011913150348356095,False
+nadh_desidrogenases_externas + nadh_desidrogenase_interna,3,0.28786570370401554,0.9999999999999903,0.0,0.0011913150348356095,False
+fermentacao_etanol + nadh_desidrogenases_externas + nadh_desidrogenase_interna,8,0.28786570370401554,0.9999999999999903,0.0,0.0011913150348356095,False
+fermentacao_etanol,5,0.28786570370401454,0.9999999999999869,0.0,0.0011913150348254334,False
+nadh_desidrogenase_interna,1,0.28786570370401454,0.9999999999999869,0.0,0.0011913150348079131,False
+fermentacao_etanol + nadh_desidrogenase_interna,6,0.28786570370401454,0.9999999999999869,0.0,0.0011913150348254334,False
+glicerol + nadh_desidrogenases_externas,4,0.2878361448837361,0.9998973173257464,0.0,0.0011913150348217315,False
+fermentacao_etanol + glicerol + nadh_desidrogenases_externas,9,0.2878361448837361,0.9998973173257464,0.0,0.0011913150348217315,False
+glicerol + nadh_desidrogenases_externas + nadh_desidrogenase_interna,5,0.2878361448837361,0.9998973173257464,0.0,0.0011913150348217315,False
+fermentacao_etanol + glicerol + nadh_desidrogenases_externas + nadh_desidrogenase_interna,10,0.2878361448837361,0.9998973173257464,0.0,0.0011913150348217315,False
+glicerol,2,0.2878361448837357,0.999897317325745,0.0,0.0011913150348120548,False
+fermentacao_etanol + glicerol,7,0.2878361448837357,0.999897317325745,0.0,0.0011913150348120548,False
+glicerol + nadh_desidrogenase_interna,3,0.2878361448837357,0.999897317325745,0.0,0.0011913150348120548,False
+fermentacao_etanol + glicerol + nadh_desidrogenase_interna,8,0.2878361448837357,0.999897317325745,0.0,0.0011913150348120548,False
+aldeido_desidrogenase,3,0.2869380429188711,0.9967774529122058,0.0,0.0010944674444861142,False
+fermentacao_etanol + aldeido_desidrogenase,8,0.2869380429188711,0.9967774529122058,0.0,0.0010944674444861142,False
+nadh_desidrogenase_interna + aldeido_desidrogenase,4,0.2869380429188711,0.9967774529122058,0.0,0.0010944674444861142,False
+fermentacao_etanol + nadh_desidrogenase_interna + aldeido_desidrogenase,9,0.2869380429188711,0.9967774529122058,0.0,0.0010944674444861142,False
+nadh_desidrogenases_externas + aldeido_desidrogenase,5,0.28693804291886865,0.9967774529121973,0.0,0.0010944674444887384,False
+fermentacao_etanol + nadh_desidrogenases_externas + aldeido_desidrogenase,10,0.28693804291886865,0.9967774529121973,0.0,0.0010944674444887384,False
+nadh_desidrogenases_externas + nadh_desidrogenase_interna + aldeido_desidrogenase,6,0.28693804291886865,0.9967774529121973,0.0,0.0010944674444887384,False
+fermentacao_etanol + nadh_desidrogenases_externas + nadh_desidrogenase_interna + aldeido_desidrogenase,11,0.28693804291886865,0.9967774529121973,0.0,0.0010944674444887384,False
+glicerol + aldeido_desidrogenase,5,0.28690867429129113,0.996675430937368,0.0,0.0010944674444861749,False
+fermentacao_etanol + glicerol + aldeido_desidrogenase,10,0.28690867429129113,0.996675430937368,0.0,0.0010944674444861749,False
+glicerol + nadh_desidrogenase_interna + aldeido_desidrogenase,6,0.28690867429129113,0.996675430937368,0.0,0.0010944674444861749,False
+fermentacao_etanol + glicerol + nadh_desidrogenase_interna + aldeido_desidrogenase,11,0.28690867429129113,0.996675430937368,0.0,0.0010944674444861749,False
+glicerol + nadh_desidrogenases_externas + aldeido_desidrogenase,7,0.28690867429129047,0.9966754309373657,0.0,0.0010944674444819775,False
+fermentacao_etanol + glicerol + nadh_desidrogenases_externas + aldeido_desidrogenase,12,0.28690867429129047,0.9966754309373657,0.0,0.0010944674444891757,False
+glicerol + nadh_desidrogenases_externas + nadh_desidrogenase_interna + aldeido_desidrogenase,8,0.28690867429129047,0.9966754309373657,0.0,0.0010944674444819775,False
+fermentacao_etanol + glicerol + nadh_desidrogenases_externas + nadh_desidrogenase_interna + aldeido_desidrogenase,13,0.28690867429129047,0.9966754309373657,0.0,0.0010944674444891757,False
