@@ -1,0 +1,12 @@
+metabolito,nome,preco_sombra
+accoa_c,Acetyl-CoA,-0.02150537634408586
+malcoa_c,Malonyl CoA C24H33N7O19P3S,-0.05017921146953389
+hexcoa_c,Hexanoyl-CoA,5.595114551067688e-17
+grdp_c,Geranyl diphosphate,-0.5304659498207889
+ipdp_c,Isopentenyl diphosphate,-0.26523297491039444
+nadph_c,Nicotinamide adenine dinucleotide phosphate - reduced,-2.2478870921604456e-17
+nadh_c,Nicotinamide adenine dinucleotide - reduced,0.028673835125448015
+atp_c,ATP C10H12N5O13P3,-0.13381123058542418
+o2_c,O2 O2,-0.12186379928315416
+olivetolate_c,Olivetolate,-0.40860215053763416
+cbga_c,Cannabigerolate,-0.939068100358423
