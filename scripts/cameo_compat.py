@@ -22,7 +22,12 @@ if not hasattr(_del, "find_gene_knockout_reactions"):
         return fora
     _del.find_gene_knockout_reactions = find_gene_knockout_reactions
 
-# cameo usa pandas.core.common.in_ipython_frontend, movido nas versões novas.
+# cameo usa pandas.core.common.in_ipython_frontend, movido nas versoes novas.
 import pandas.core.common as _pdc
 if not hasattr(_pdc, "in_ipython_frontend"):
     _pdc.in_ipython_frontend = lambda: False
+
+# cobra >= 0.6 renomeou Solution.f para Solution.objective_value; cameo usa .f
+from cobra.core.solution import Solution as _Sol
+if not hasattr(_Sol, "f"):
+    _Sol.f = property(lambda self: self.objective_value)
